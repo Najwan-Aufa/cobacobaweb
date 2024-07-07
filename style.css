@@ -165,19 +165,6 @@ button:hover:after {
         margin-left: 2.5%;
     }
 
-    .photo {
-        flex: 1;
-        width: 100%;
-        height: auto;
-        margin-top: 15%;
-        margin-left: 25%;
-    }
-    
-    .gambar {
-        width: 50%;
-        height: auto;
-    }
-
     .btn {
         margin-left: 5%;
     }
