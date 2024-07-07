@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    max-width: 100%;
 }
 
 a {
@@ -64,17 +64,14 @@ a {
 /*teks home done*/
 /*gambar home*/
 .photo {
+    position: absolute;
     flex: 1;
-    width: 50%;
+    width: 20%;
     height: auto;
     margin-top: -15%;
     margin-left: 50%;
 }
 
-.gambar {
-    width: 50%;
-    height: auto;
-}
 /*gambar home done*/
 /*button*/
 .btn {
@@ -168,17 +165,12 @@ button:hover:after {
 
     .photo {
         flex: 1;
-        width: 100%;
-        height: auto;
-        margin-top: 15%;
-        margin-left: 25%;
-    }
-    
-    .gambar {
         width: 50%;
         height: auto;
+        margin-top: 15%;
+        margin-left: 20%;
     }
-
+    
     .btn {
         margin-left: 5%;
     }
