@@ -157,12 +157,26 @@ button:hover:after {
 
     /*teks home*/
     .teks1 {
-        margin-right: 10%;
+        margin-right: 15%;
         margin-top: 25%;
+        font-size: 2em;
     }
 
     .keterangan {
-        margin-left: 2.5%;
+        margin-left: 25px;
+    }
+
+    .photo {
+        flex: 1;
+        width: 100%;
+        height: auto;
+        margin-top: 15%;
+        margin-left: 25%;
+    }
+    
+    .gambar {
+        width: 50%;
+        height: auto;
     }
 
     .btn {
