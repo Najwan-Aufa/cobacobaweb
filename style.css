@@ -664,4 +664,15 @@ ul {
     margin-top: -150%;
   }
 
+  .skilltitel {
+    position: absolute;
+    color: aqua;
+    margin-top: -170%;
+    text-align: center;
+    text-decoration: underline;
+    text-underline-offset: 10px;
+    font-family: Arial, sans-serif;
+    text-transform: capitalize;
+  }
+
 }
